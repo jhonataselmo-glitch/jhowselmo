@@ -39,7 +39,9 @@ Mais de 15 anos de experiência conectando tecnologia às necessidades de negóc
 
 ## Código neste repositório
 
-- [`portfolio/`](portfolio/) contém os arquivos estáticos do meu portfólio: HTML, CSS e recursos visuais.
+- [`codigo/portfolio-react/`](codigo/portfolio-react/) contém a fonte do portfólio em **TypeScript/React (TSX), CSS e JavaScript** e o script de build.
+- [`codigo/nort-desktop-ai/`](codigo/nort-desktop-ai/) contém o MVP em **Python**, com interface, ferramentas de automação, testes e instruções de execução.
+- [`portfolio/`](portfolio/) contém a saída estática gerada do portfólio: HTML, CSS e recursos visuais.
 - [`projetos/`](projetos/) apresenta Apura.IA e JS Labs, meu papel e os links dos projetos.
 - O código e a estrutura existentes do **Radar TI** foram preservados. A documentação original está em [`docs/RADAR-TI.md`](docs/RADAR-TI.md).
 
