@@ -1,3 +1,12 @@
-# Saída estática gerada pelo código React/TypeScript em codigo/portfolio-react.
-/portfolio/index.html linguist-generated=true
-/portfolio/styles.css linguist-generated=true
+# A pasta portfolio/ e a saída estática gerada; os fontes estão em codigo/.
+/portfolio/** linguist-generated=true
+
+# Incluir os arquivos-fonte reais nas estatísticas do GitHub.
+codigo/**/*.py linguist-detectable=true linguist-generated=false linguist-vendored=false linguist-documentation=false
+codigo/**/*.tsx linguist-detectable=true linguist-generated=false linguist-vendored=false linguist-documentation=false
+codigo/**/*.mjs linguist-detectable=true linguist-generated=false linguist-vendored=false linguist-documentation=false
+codigo/**/*.css linguist-detectable=true linguist-generated=false linguist-vendored=false linguist-documentation=false
+
+# Recursos e caches de ferramentas não são código-fonte.
+**/.pytest_cache/** linguist-generated=true
+**/__pycache__/** linguist-generated=true
