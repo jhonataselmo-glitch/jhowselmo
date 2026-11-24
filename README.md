@@ -30,6 +30,10 @@ Mais de 15 anos de experiência conectando tecnologia às necessidades de negóc
 
 ## Habilidades
 
+**Python · JavaScript · TypeScript · HTML · CSS · PowerShell · SQL**
+
+[Veja os arquivos e o escopo de cada tecnologia](docs/TECNOLOGIAS.md).
+
 | Área | Experiência e ferramentas |
 | --- | --- |
 | TI, infraestrutura e cloud | Redes, operação de TI, AWS, Microsoft 365 e Google Workspace |
@@ -65,3 +69,4 @@ As tecnologias acima correspondem à experiência profissional e aos projetos ap
 ## Linguagens do GitHub
 
 A barra automática conta os arquivos de código deste repositório, não todas as habilidades profissionais. HTML gerado em `portfolio/` é identificado como saída de build; os fontes de Python, TypeScript/React, JavaScript e CSS permanecem disponíveis em `codigo/`. SQL e PowerShell também fazem parte das habilidades descritas acima, com escopo próprio nos projetos e na automação de TI.
+
