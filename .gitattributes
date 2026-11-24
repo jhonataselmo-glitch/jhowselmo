@@ -1,6 +1,3 @@
-# A pasta portfolio/ e a saída estática gerada; os fontes estão em codigo/.
-/portfolio/** linguist-generated=true
-
 # Incluir os arquivos-fonte reais nas estatísticas do GitHub.
 *.py linguist-detectable=true linguist-generated=false linguist-vendored=false linguist-documentation=false
 *.tsx linguist-detectable=true linguist-generated=false linguist-vendored=false linguist-documentation=false
@@ -13,3 +10,6 @@
 # Recursos e caches de ferramentas não são código-fonte.
 **/.pytest_cache/** linguist-generated=true
 **/__pycache__/** linguist-generated=true
+
+# A saída de build deve prevalecer sobre as regras por extensão acima.
+/portfolio/** linguist-generated=true
