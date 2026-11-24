@@ -2,10 +2,13 @@
 /portfolio/** linguist-generated=true
 
 # Incluir os arquivos-fonte reais nas estatísticas do GitHub.
-codigo/**/*.py linguist-detectable=true linguist-generated=false linguist-vendored=false linguist-documentation=false
-codigo/**/*.tsx linguist-detectable=true linguist-generated=false linguist-vendored=false linguist-documentation=false
-codigo/**/*.mjs linguist-detectable=true linguist-generated=false linguist-vendored=false linguist-documentation=false
-codigo/**/*.css linguist-detectable=true linguist-generated=false linguist-vendored=false linguist-documentation=false
+*.py linguist-detectable=true linguist-generated=false linguist-vendored=false linguist-documentation=false
+*.tsx linguist-detectable=true linguist-generated=false linguist-vendored=false linguist-documentation=false
+*.mjs linguist-detectable=true linguist-generated=false linguist-vendored=false linguist-documentation=false
+*.css linguist-detectable=true linguist-generated=false linguist-vendored=false linguist-documentation=false
+
+# Os instaladores incluem scripts PowerShell reais.
+*.ps1 linguist-detectable=true linguist-generated=false linguist-vendored=false linguist-documentation=false
 
 # Recursos e caches de ferramentas não são código-fonte.
 **/.pytest_cache/** linguist-generated=true
