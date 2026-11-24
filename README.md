@@ -13,8 +13,9 @@ Mais de 15 anos de experiência conectando tecnologia às necessidades de negóc
 | **Apura.IA** | Interface de apuração eleitoral com dados públicos do TSE, navegação por localidades e mapa interativo. Concepção, evolução da experiência e visualização dos dados. | [Abrir projeto](https://apura-ia-jslabs.pages.dev/) · [Detalhes](projetos/apura-ia.md) |
 | **JS Labs** | Soluções digitais sob medida: site, CRM comercial e financeiro, prospecção, automações e integrações com IA. Trabalho nos fluxos, interfaces, implementação e evolução. | [Abrir site](https://www.jslabsia.com.br/) · [Detalhes](projetos/js-labs.md) |
 | **NORT.AI** | Conceito e base web de plataforma/consultoria para diagnóstico, dados, BI, estratégia, automação e IA. MVP em desenvolvimento. | [Repositório público](https://github.com/jhonataselmo-glitch/nortia) |
-| **AWS Bedrock Assistant** | Demonstração técnica Python que resume textos com IA no Amazon Bedrock, com cliente testável, controle de entrada/tokens e exemplo IAM. Oito testes offline; integração AWS ainda não validada. | [Código e execução](codigo/aws-bedrock-assistant/) |
-| **NORT Desktop AI** | MVP de automação desktop em Python/PySide6, planejamento com IA, execução aprovada e trilha de auditoria. | [Código, arquitetura e testes](codigo/nort-desktop-ai/) |
+| **AWS Bedrock Assistant** | Demonstração técnica Python que resume textos com IA no Amazon Bedrock, com cliente testável, controle de entrada/tokens e exemplo IAM. Oito testes offline; integração AWS ainda não validada. | [Repositório e execução](https://github.com/jhonataselmo-glitch/aws-bedrock-assistant) |
+| **NORT Desktop AI** | MVP de automação desktop em Python/PySide6, planejamento com IA, execução aprovada e trilha de auditoria. | [Repositório, arquitetura e testes](https://github.com/jhonataselmo-glitch/nort-desktop-ai) |
+| **Portfólio React** | Interface em TypeScript/React e CSS, com gerador estático JavaScript. | [Repositório e build](https://github.com/jhonataselmo-glitch/portfolio-react) |
 | **Radar TI** | Painel de vagas remotas, filtros, aderência profissional e Kanban de candidaturas com dados locais. | [Documentação e execução](docs/RADAR-TI.md) |
 
 ## Outros projetos e frentes
