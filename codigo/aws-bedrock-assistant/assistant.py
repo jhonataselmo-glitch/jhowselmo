@@ -1,4 +1,9 @@
-"""Small Amazon Bedrock text summarizer; credentials use the AWS SDK chain."""
+"""Summarize stdin text with Amazon Bedrock Converse.
+
+The summarize() function accepts an injected client for offline tests. The CLI
+uses the AWS SDK credential chain, bounds input and output, and disables retries
+to avoid repeating potentially billable calls. See README.md for setup and limits.
+"""
 import argparse
 import json
 import sys
@@ -66,3 +71,4 @@ def main():
 
 if __name__ == '__main__':
     raise SystemExit(main())
+
